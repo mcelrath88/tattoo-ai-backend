@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+replicate
+python-multipart
+pillow
+httpx
